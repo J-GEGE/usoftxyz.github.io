@@ -2,4 +2,4 @@
 
 **更新时间：2018-05-17 10:00:00**
 
-![Google Chrome 快捷键](images/chrome_shortcutkeys.png)
+![Google Chrome 快捷键](../assets/images/chrome_shortcutkeys.png)
