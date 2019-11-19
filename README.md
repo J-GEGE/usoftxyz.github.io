@@ -11,3 +11,5 @@
 * [docker入门](notes/docker000.md)
 
 * [CentOS入门](notes/linux000.md)
+
+* [Golang入门](notes/golang000.md)
